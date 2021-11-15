@@ -58,7 +58,6 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [Datastax Academy: What is Cassandra?](https://www.datastax.com/cassandra) - Introduction to what Cassandra is, where it came from, and some of it's benefits.
 - [Kaa application based on Raspberry Pi and DHT11 sensor](https://github.com/pyroalf/kaa-cassandra-sample) - Cassandra IoT usecase with Raspberry Pi and a DHT11 Sensor.
 - [Simple Node.js Express 4 Cassandra Application](https://github.com/bradtraversy/mysubscribers) - MySubscribers is a very simple application (Start of an application) which allows you to create, read, update and delete users/subscribers. This application was only created to aid the YouTube course.
-- [An Odyssey of Cassandra](http://hadoopmag.com/an-odyssey-of-cassandra/) - Older article that has republished but talks about transitioning from SQL to NoSQL with Cassandra.
 
 ### Cassandra Distributions
 
