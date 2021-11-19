@@ -41,19 +41,19 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
   - [Videos](#videos)
   - [Slides](#slides)
   
-## General
+## General {#general}
 
-### Cassandra
+### Cassandra {#cassandra}
 
 - [Apache Cassandra](http://cassandra.apache.org/) - Manage massive amounts of data, fast, without losing sleep.
 
-### Cassandra History
+### Cassandra History {#cassandra-history}
 
 
 - [IDG: 10 Years of Apache Cassandra](https://www.idgconnect.com/article/3580401/10-years-of-apache-cassandra.html) - Retrospective discussing the first 10 years of Cassandra's history.
 - [ZDNet: Cassandra Turns 10](https://www.zdnet.com/article/apache-cassandra-turns-10/) - Highlights of the growth of Cassandra over it's first 10 years.
 
-### Cassandra Use Cases
+### Cassandra Use Cases {#cassandra-use-cases}
 
 - [Datastax Academy: What is Cassandra?](https://www.datastax.com/cassandra) - Introduction to what Cassandra is, where it came from, and some of it's benefits.
 - [Kaa application based on Raspberry Pi and DHT11 sensor](https://github.com/pyroalf/kaa-cassandra-sample) - Cassandra IoT usecase with Raspberry Pi and a DHT11 Sensor.
