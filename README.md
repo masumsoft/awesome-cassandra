@@ -316,9 +316,6 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 - [Access Amazon Keyspaces with a Cassandra .NET Core Driver](https://docs.aws.amazon.com/keyspaces/latest/devguide/using_dotnetcore_driver.html) - Article shows how to connect to Amazon Keyspaces by using a .NET Core client driver.
 - [Cassandra ADO.NET Driver](https://www.cdata.com/drivers/cassandra/ado/) - Cassandra ADO.NET Data Provider enables user to easily connect to Cassandra data from .NET applications.
 - [Cassandra Pagination with ASP.NET Core C#](https://bhonemyintkyaw777.medium.com/cassandra-pagination-with-asp-net-core-c-a85fd58f6b2b) - Article covering how to create infinite scroll pagination with Cassandra and ASP.NET Core C#.
-- []() - .
-- []() - .
-- []() - .
 
 #### Spark
 
