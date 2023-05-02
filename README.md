@@ -376,7 +376,7 @@ This is a curated list of awesome [Cassandra](https://github.com/apache/cassandr
 
 ### Libraries
 
-- [express-cassandra](https://github.com/masumsoft/express-cassandra) - Cassandra ORM/ODM/OGM for Node.js with optional support for Elassandra & JanusGraph.
+- [express-cassandra](https://github.com/masumsoft/express-cassandra) - Cassandra ORM/ODM/OGM for NodeJS with support for Apache Cassandra, ScyllaDB, Datastax Enterprise, Elassandra & JanusGraph.
 - [DataStax Java Driver](https://github.com/datastax/java-driver) - Java client driver for Cassandra.
 - [DataStax C++ Driver](https://github.com/datastax/cpp-driver) - Modern, feature-rich, and highly tunable C/C++ client library for Cassandra (1.2+) and DataStax Enterprise (3.1+) using exclusively Cassandra's native protocol and Cassandra Query Language v3.
 - [DataStax Python Driver](https://github.com/datastax/python-driver) - Modern, feature-rich and highly-tunable Python client library for Cassandra (2.1+) using exclusively Cassandra's binary protocol and Cassandra Query Language v3.
